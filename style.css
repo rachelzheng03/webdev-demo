@@ -1,0 +1,13 @@
+body{
+    /* we'll add our styling here */
+    background-color:rgb(179, 146, 194);
+}
+#container{
+    text-align:center;
+}
+.button:hover{
+    background-color:rgb(214, 214, 245)/*enter any color you want the button to change to on hover*/
+}
+ul{
+    list-style-type: none;
+}
